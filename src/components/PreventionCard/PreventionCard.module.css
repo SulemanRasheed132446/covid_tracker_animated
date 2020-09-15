@@ -1,0 +1,24 @@
+.preventionCard img{
+    width: 100px;
+    margin-top: 0;
+}
+
+.preventionCard h2 {
+    font-size: 1.8rem;
+    color: #262C7C;
+}
+
+.preventionCard p {
+    font-size: 1.4rem;
+    letter-spacing: 4;
+    word-spacing:4;
+    line-height: 1.3;
+    color: #6468A1;
+    max-width: 300px;
+}
+
+.preventionCard {
+    padding: 1rem 2rem;
+    margin-bottom: 2rem;
+
+}

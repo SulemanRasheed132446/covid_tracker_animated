@@ -1,0 +1,24 @@
+.footer {
+    padding: 6rem 8rem 3rem 8rem;
+    background-color: #262C7C;
+    margin-top: 4rem;
+}
+
+.footer p {
+    color: white;
+    font-size: 1.4rem;
+}
+
+.footer h1{
+    color: #E4E5F7;
+}
+
+.footer  h2 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.contacts p, .contacts h1{
+    margin: 0.2rem;
+
+}

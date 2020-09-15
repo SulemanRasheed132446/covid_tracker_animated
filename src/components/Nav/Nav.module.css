@@ -1,0 +1,22 @@
+.navBar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 0;
+}
+
+.navList {
+    list-style: none;
+    display: flex;
+}
+
+.navList li {
+    margin-right: 2.2rem;
+    color: #BEC1E0;
+    transition: all 0.5s;
+    cursor: pointer;
+
+}
+.navList .selected {
+    color: #EB0065;
+}

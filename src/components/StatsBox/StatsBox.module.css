@@ -1,0 +1,8 @@
+.statBox {
+    min-height: 10rem;
+    width: 100%;
+    background-color: #FFFFFF;
+    position: relative;
+    top: 2rem;
+    border-radius: 20px;
+}

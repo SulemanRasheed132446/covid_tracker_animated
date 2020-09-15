@@ -1,0 +1,16 @@
+.country {
+    background-color:#F2F3F7;
+    color:#2D2E39;
+    padding:0.2rem 1rem;
+    border-radius: 2rem;
+    margin: 1rem 0;
+    transition: all 0.3s;
+}
+.country h4 {
+    font-size: 1.5rem;
+}
+.country:hover {
+    background-color:#262C7C;
+    color: #F2F3F7;
+   
+}

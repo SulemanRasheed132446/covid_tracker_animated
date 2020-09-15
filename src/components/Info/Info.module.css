@@ -1,0 +1,14 @@
+.container {
+    padding: 0rem 7.5rem;
+    margin-top: 2rem;
+}
+.container > h1 {
+    text-align: center;
+    font-size: 4rem;
+    letter-spacing: 1.2;
+    word-spacing: 1.5;
+    color: #262C7C;
+    margin: 6rem 0rem;
+}
+
+ 
