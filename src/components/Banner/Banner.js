@@ -22,7 +22,7 @@ export const Banner = () => {
                 <Grid container item xs={6} spacing={3}>
                     <Fade right clear>
                         <div className={styles.imageContainer}>
-                            <img src={illustration} />
+                            <img src={illustration} alt="illustration"/>
                         </div>
                     </Fade>
 

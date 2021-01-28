@@ -7,7 +7,7 @@ export const InfoCard = React.forwardRef(({ logo, heading, detail, animation }, 
     return (
         <Grid container item xs={12} md={6} lg={4} spacing={3} ref={ref}>
             <Card className={styles.card} >
-                <img src={logo} />
+                <img src={logo} alt="logo"/>
                 <h2>{heading}</h2>
                 <p>{detail}</p>
                 <p></p>

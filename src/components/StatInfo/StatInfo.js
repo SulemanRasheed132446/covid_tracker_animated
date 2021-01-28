@@ -4,7 +4,7 @@ import CountUp from 'react-countup'
 export const StatInfo = ({ image, title, totalCases, newCases, country }) => {
     return (
         <div className={styles.statInfo}>
-            <img src={image} />
+            <img src={image} alt="stat_image"/>
             <div>
                 <h4>{title}</h4>
                 <h3>{country ? country : <CountUp
